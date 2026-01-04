@@ -1,0 +1,15 @@
+# 忽略所有文件
+*
+
+# 只保留以下文件
+!README.md
+!extract_custom_ico.py
+!.gitignore
+
+# 忽略目录
+/DWIN_SET/
+!/DWIN_SET/
+!/DWIN_SET/63_scales.ICO
+!/DWIN_SET/64_scales.ICO
+/extracted/
+/__pycache__/
